@@ -1,0 +1,9 @@
+<resources>
+    <string name="scan_busy">Scanning…</string>
+    <string name="scan_available">Scan</string>
+    <string name="app_name">Test Activity - ARCore Issue</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="analysis_in_progress">Analysis In Progress...</string>
+</resources>
